@@ -5,3 +5,5 @@
 * A script that compiles a C file but does not link: gcc $CFILE -c
 ## 2. Assembler
 * A script that generates the assembly code of a C code and save it in an output file: gcc -S $CFILE
+## 3. Name
+* A script that compiles a C file and creates an executable named cisfun: gcc $CFILE -o cisfun
