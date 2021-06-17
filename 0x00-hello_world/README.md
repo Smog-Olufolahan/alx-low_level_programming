@@ -12,5 +12,5 @@
 ## 5. Hello, printf 
 * A C program that prints exactly with proper grammar, but the outcome is a piece of art, , followed by a new line: click on file name for the code. No space
 ## 6. Size is not grandeur, and territory does not make a nation
-* A C program that prints the size of various types on the computer it is compiled and run on.: check repo
+* A C program that prints the size of various types on the computer it is compiled and run on.: check file name on repo
  
