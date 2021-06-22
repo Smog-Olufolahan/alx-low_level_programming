@@ -7,4 +7,6 @@
 * A function that prints 10 times the alphabet, in lowercase, followed by a new line.
 ## 3. islower
 * A function that checks for lowercase character.
-## 4. 
+## 4. isalpha
+* A function that checks for alphabetic character.
+## 5. 
