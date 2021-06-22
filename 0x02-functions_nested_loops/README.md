@@ -13,3 +13,5 @@
 * A function that prints the sign of a number.
 ## 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you.
 * A function that computes the absolute value of an integer.
+## 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important.
+* A function that prints the last digit of a number.
