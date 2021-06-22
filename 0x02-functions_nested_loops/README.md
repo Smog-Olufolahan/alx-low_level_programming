@@ -23,3 +23,5 @@
 * A function that adds two integers and returns the result.
 ## 11. Holberton School, 98 Battery Street, the OG
 * A function that prints all natural numbers from n to 98, followed by a new line.
+## 12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
+* A function that prints the n times tables, starting with O.
