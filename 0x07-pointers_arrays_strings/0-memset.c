@@ -1,6 +1,6 @@
 #include "holberton.h"
 
-/***
+/**
  * _memset - fill a block of memory with a constant byte
  * @s: starting address of memory to be filled
  * @b: value to set
